@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hittoken
 - 👀 I’m interested in Crypto Currencies
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Blockchain Companies and Investment Companies
 
 <!---
